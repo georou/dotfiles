@@ -14,6 +14,8 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'cespare/vim-toml'
 " SELinux Lukas Policy highlighting
 Plugin 'lzap/vim-selinux'
+" YAML highlighting
+Plugin 'pearofducks/ansible-vim'
 
 
 
