@@ -21,3 +21,7 @@ Add to .bashrc:
 export POLICY_LOCATION=/usr/share/selinux/devel
 source $HOME/selinuxfunctions.sh
 ```
+
+## Bash Prompt:
+source ~/.git-prompt.sh
+PS1='[\u@\[\e[36m\]\h\[\e[m\] \W$(__git_ps1 " (%s)")]\$ '
