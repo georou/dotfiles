@@ -19,9 +19,11 @@ Copy and paste icon into i3.conf
 Add to .bashrc:
 ```sh
 export POLICY_LOCATION=/usr/share/selinux/devel
-source $HOME/.selinuxfunctions.sh
+source $HOME/.selinux-functions.sh
 ```
 
 ## Bash Prompt:
+```sh
 source ~/.git-prompt.sh
 PS1='[\u@\[\e[36m\]\h\[\e[m\] \W$(__git_ps1 " (%s)")]\$ '
+```
