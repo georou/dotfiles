@@ -1,0 +1,2 @@
+xss-lock -- i3lock -n -e -f -c 000000 &
+udiskie -N2 &

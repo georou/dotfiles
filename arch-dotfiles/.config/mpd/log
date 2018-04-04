@@ -1,0 +1,698 @@
+Mar 26 21:52 : exception: Failed to open /home/george/.config/mpd/state: No such file or directory
+Mar 26 21:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 26 21:52 : exception: Failed to access /home/george/Music: No such file or directory
+Mar 26 21:52 : client: [0] opened from 127.0.0.1:42290
+Mar 26 21:53 : client: [1] opened from 127.0.0.1:42294
+Mar 26 21:53 : client: [1] closed
+Mar 26 21:53 : client: [0] closed
+Mar 26 21:55 : client: [2] opened from 127.0.0.1:42296
+Mar 26 21:55 : client: [2] closed
+Mar 26 21:56 : client: [3] opened from 127.0.0.1:42304
+Mar 26 21:56 : client: [4] opened from 127.0.0.1:42312
+Mar 26 21:56 : client: [4] closed
+Mar 26 21:56 : client: [3] closed
+Mar 26 21:58 : client: [5] opened from 127.0.0.1:42314
+Mar 26 21:58 : client: [5] closed
+Mar 26 21:58 : client: [6] opened from 127.0.0.1:42316
+Mar 26 21:58 : client: [7] opened from 127.0.0.1:42320
+Mar 26 21:58 : client: [7] closed
+Mar 26 21:58 : client: [6] closed
+Mar 26 21:59 : client: [8] opened from 127.0.0.1:42322
+Mar 26 22:00 : client: [9] opened from 127.0.0.1:42324
+Mar 26 22:00 : client: [9] closed
+Mar 26 22:00 : client: [8] closed
+Mar 26 22:02 : client: [10] opened from 127.0.0.1:42328
+Mar 26 22:03 : client: [11] opened from 127.0.0.1:42332
+Mar 26 22:03 : client: [11] closed
+Mar 26 22:03 : client: [10] closed
+Mar 27 00:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 27 00:59 : client: [0] opened from 127.0.0.1:39920
+Mar 27 01:04 : client: [1] opened from 127.0.0.1:39928
+Mar 27 01:05 : client: [1] closed
+Mar 27 01:34 : client: [0] closed
+Mar 27 01:43 : client: [2] opened from 127.0.0.1:40632
+Mar 27 01:48 : client: [3] opened from 127.0.0.1:40880
+Mar 27 01:48 : update: added /Shredder 1984 - Synth City (Official Video)-wcRfTrxzvLw.ogg
+Mar 27 01:48 : client: [3] closed
+Mar 27 01:49 : client: [4] opened from 127.0.0.1:40900
+Mar 27 01:49 : client: [4] closed
+Mar 27 01:49 : client: [5] opened from 127.0.0.1:40904
+Mar 27 01:49 : client: [5] closed
+Mar 27 01:49 : client: [6] opened from 127.0.0.1:40908
+Mar 27 01:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 27 01:50 : client: [7] opened from 127.0.0.1:40912
+Mar 27 01:50 : client: [6] closed
+Mar 27 01:50 : client: [7] closed
+Mar 27 01:50 : client: [8] opened from 127.0.0.1:40916
+Mar 27 01:50 : player: played "Shredder 1984 - Synth City (Official Video)-wcRfTrxzvLw.ogg"
+Mar 27 01:50 : client: [8] closed
+Mar 27 03:27 : client: [2] closed
+Mar 27 03:27 : client: [9] opened from 127.0.0.1:40984
+Mar 27 03:27 : client: [10] opened from 127.0.0.1:40988
+Mar 27 03:28 : client: [10] closed
+Mar 27 03:29 : client: [11] opened from 127.0.0.1:40994
+Mar 27 03:29 : client: [11] closed
+Mar 27 03:29 : client: [12] opened from 127.0.0.1:40998
+Mar 27 03:29 : client: [12] closed
+Mar 27 03:29 : client: [13] opened from 127.0.0.1:41002
+Mar 27 03:29 : client: [13] closed
+Mar 27 04:25 : client: [14] opened from 127.0.0.1:41028
+Mar 27 04:25 : client: [14] closed
+Mar 27 04:26 : player: played "Shredder 1984 - Synth City (Official Video)-wcRfTrxzvLw.ogg"
+Mar 27 04:26 : client: [15] opened from 127.0.0.1:41032
+Mar 27 04:26 : client: [15] closed
+Mar 27 04:26 : client: [16] opened from 127.0.0.1:41036
+Mar 27 04:26 : client: [16] closed
+Mar 27 04:26 : client: [17] opened from 127.0.0.1:41040
+Mar 27 04:26 : client: [17] closed
+Mar 27 04:27 : client: [18] opened from 127.0.0.1:41044
+Mar 27 04:27 : client: [18] closed
+Mar 27 04:27 : client: [19] opened from 127.0.0.1:41048
+Mar 27 04:27 : client: [19] closed
+Mar 27 04:27 : client: [20] opened from 127.0.0.1:41052
+Mar 27 04:27 : client: [20] closed
+Mar 27 04:27 : client: [21] opened from 127.0.0.1:41056
+Mar 27 04:27 : player: played "Shredder 1984 - Synth City (Official Video)-wcRfTrxzvLw.ogg"
+Mar 27 04:27 : client: [21] closed
+Mar 27 04:49 : client: [9] closed
+Mar 27 04:49 : client: [22] opened from 127.0.0.1:41330
+Mar 27 04:50 : client: [22] closed
+Mar 27 04:50 : client: [23] opened from 127.0.0.1:41332
+Mar 27 04:53 : client: [23] closed
+Mar 27 04:53 : client: [24] opened from 127.0.0.1:41336
+Mar 27 04:54 : client: [24] closed
+Mar 27 04:54 : client: [25] opened from 127.0.0.1:41338
+Mar 27 06:04 : client: [25] closed
+Mar 27 06:04 : client: [26] opened from 127.0.0.1:41458
+Mar 27 06:07 : client: [26] closed
+Mar 27 06:07 : client: [27] opened from 127.0.0.1:41462
+Mar 27 06:18 : client: [27] closed
+Mar 27 06:18 : client: [28] opened from 127.0.0.1:41476
+Mar 27 06:23 : client: [29] opened from 127.0.0.1:41504
+Mar 27 06:23 : client: [29] closed
+Mar 27 06:23 : client: [30] opened from 127.0.0.1:41508
+Mar 27 06:25 : player: played "Shredder 1984 - Synth City (Official Video)-wcRfTrxzvLw.ogg"
+Mar 28 21:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 28 21:57 : client: [0] opened from 127.0.0.1:59172
+Mar 28 22:05 : client: [0] closed
+Mar 28 22:05 : client: [1] opened from 127.0.0.1:59180
+Mar 29 07:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 29 07:15 : client: [0] opened from 127.0.0.1:50982
+Mar 29 08:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 29 08:01 : client: [0] opened from 127.0.0.1:53042
+Mar 29 08:02 : client: [0] closed
+Mar 29 08:02 : client: [1] opened from 127.0.0.1:53046
+Mar 29 08:04 : client: [1] closed
+Mar 29 08:04 : client: [2] opened from 127.0.0.1:53080
+Mar 29 08:05 : client: [2] closed
+Mar 29 08:05 : client: [3] opened from 127.0.0.1:53082
+Mar 29 08:19 : client: [3] closed
+Mar 29 08:19 : client: [4] opened from 127.0.0.1:53112
+Mar 29 08:19 : client: [4] closed
+Mar 29 08:20 : client: [5] opened from 127.0.0.1:53114
+Mar 29 08:33 : client: [5] closed
+Mar 29 08:33 : client: [6] opened from 127.0.0.1:53170
+Mar 29 08:33 : client: [6] closed
+Mar 29 08:33 : client: [7] opened from 127.0.0.1:53172
+Mar 29 08:33 : client: [7] closed
+Mar 29 08:33 : client: [8] opened from 127.0.0.1:53174
+Mar 29 08:34 : client: [8] closed
+Mar 29 08:34 : client: [9] opened from 127.0.0.1:53176
+Mar 29 08:34 : client: [9] closed
+Mar 29 08:34 : client: [10] opened from 127.0.0.1:53178
+Mar 29 20:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 29 20:39 : client: [0] opened from 127.0.0.1:36284
+Mar 30 13:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 30 13:39 : client: [0] opened from 127.0.0.1:49856
+Mar 30 14:04 : client: [0] closed
+Mar 30 14:04 : client: [1] opened from 127.0.0.1:50024
+Mar 31 01:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 01:56 : client: [0] opened from 127.0.0.1:54790
+Mar 31 02:00 : client: [0] closed
+Mar 31 02:01 : client: [1] opened from 127.0.0.1:54792
+Mar 31 02:13 : client: [1] closed
+Mar 31 02:13 : client: [2] opened from 127.0.0.1:54818
+Mar 31 02:25 : client: [2] closed
+Mar 31 02:25 : client: [3] opened from 127.0.0.1:54850
+Mar 31 02:29 : client: [3] closed
+Mar 31 02:29 : client: [4] opened from 127.0.0.1:54856
+Mar 31 02:29 : client: [5] opened from 127.0.0.1:54860
+Mar 31 02:29 : client: [5] closed
+Mar 31 02:29 : client: [4] closed
+Mar 31 02:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 02:30 : client: [0] opened from 127.0.0.1:36584
+Mar 31 02:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 02:38 : client: [0] opened from 127.0.0.1:54218
+Mar 31 02:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 02:57 : client: [0] opened from 127.0.0.1:58340
+Mar 31 03:20 : client: [0] closed
+Mar 31 03:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 03:20 : client: [0] opened from 127.0.0.1:55304
+Mar 31 04:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 04:04 : client: [0] opened from 127.0.0.1:50490
+Mar 31 04:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 04:55 : client: [0] opened from 127.0.0.1:43268
+Mar 31 04:58 : client: [0] closed
+Mar 31 04:58 : client: [1] opened from 127.0.0.1:43272
+Mar 31 05:00 : client: [1] closed
+Mar 31 05:00 : client: [2] opened from 127.0.0.1:43276
+Mar 31 05:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 05:05 : client: [0] opened from 127.0.0.1:55950
+Mar 31 21:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 21:25 : client: [0] opened from 127.0.0.1:33516
+Apr 01 03:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 03:22 : client: [0] opened from 127.0.0.1:51972
+Apr 01 04:20 : client: [0] closed
+Apr 01 04:20 : client: [1] opened from 127.0.0.1:52252
+Apr 01 04:20 : client: [1] closed
+Apr 01 04:20 : client: [2] opened from 127.0.0.1:52254
+Apr 01 04:21 : client: [2] closed
+Apr 01 04:21 : client: [3] opened from 127.0.0.1:52256
+Apr 01 04:23 : client: [3] closed
+Apr 01 04:23 : client: [4] opened from 127.0.0.1:52260
+Apr 01 04:24 : client: [4] closed
+Apr 01 04:24 : client: [5] opened from 127.0.0.1:52262
+Apr 01 04:24 : client: [5] closed
+Apr 01 04:24 : client: [6] opened from 127.0.0.1:52264
+Apr 01 04:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 04:27 : client: [0] opened from 127.0.0.1:34216
+Apr 01 04:29 : client: [0] closed
+Apr 01 04:29 : client: [1] opened from 127.0.0.1:34220
+Apr 01 04:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 04:46 : client: [0] opened from 127.0.0.1:48584
+Apr 01 04:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 04:49 : client: [0] opened from 127.0.0.1:44060
+Apr 01 04:49 : client: [1] opened from 127.0.0.1:44064
+Apr 01 04:49 : client: [1] closed
+Apr 01 05:00 : client: [0] closed
+Apr 01 05:00 : client: [2] opened from 127.0.0.1:44184
+Apr 01 05:03 : client: [2] closed
+Apr 01 05:03 : client: [3] opened from 127.0.0.1:44230
+Apr 01 05:08 : client: [3] closed
+Apr 01 05:08 : client: [4] opened from 127.0.0.1:44254
+Apr 01 06:03 : client: [4] closed
+Apr 01 21:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 21:47 : client: [0] opened from 127.0.0.1:55480
+Apr 01 21:49 : client: [0] closed
+Apr 01 21:49 : client: [1] opened from 127.0.0.1:55484
+Apr 01 21:51 : client: [1] closed
+Apr 01 21:51 : client: [2] opened from 127.0.0.1:55486
+Apr 01 21:52 : client: [2] closed
+Apr 01 21:52 : client: [3] opened from 127.0.0.1:55490
+Apr 01 21:53 : client: [3] closed
+Apr 01 21:53 : client: [4] opened from 127.0.0.1:55492
+Apr 01 21:53 : client: [4] closed
+Apr 01 21:53 : client: [5] opened from 127.0.0.1:55494
+Apr 01 21:54 : client: [5] closed
+Apr 01 21:54 : client: [6] opened from 127.0.0.1:55496
+Apr 01 21:54 : client: [6] closed
+Apr 01 21:54 : client: [7] opened from 127.0.0.1:55498
+Apr 01 21:55 : client: [7] closed
+Apr 01 21:55 : client: [8] opened from 127.0.0.1:55500
+Apr 01 21:55 : client: [8] closed
+Apr 01 21:55 : client: [9] opened from 127.0.0.1:55502
+Apr 01 21:57 : client: [9] closed
+Apr 01 21:57 : client: [10] opened from 127.0.0.1:55504
+Apr 01 21:58 : client: [10] closed
+Apr 01 21:58 : client: [11] opened from 127.0.0.1:55508
+Apr 01 21:58 : client: [11] closed
+Apr 01 21:58 : client: [12] opened from 127.0.0.1:55510
+Apr 01 21:58 : client: [12] closed
+Apr 01 21:58 : client: [13] opened from 127.0.0.1:55512
+Apr 01 22:06 : client: [13] closed
+Apr 01 22:06 : client: [14] opened from 127.0.0.1:55544
+Apr 01 22:07 : client: [14] closed
+Apr 01 22:07 : client: [15] opened from 127.0.0.1:55566
+Apr 01 22:08 : client: [15] closed
+Apr 01 22:08 : client: [16] opened from 127.0.0.1:55574
+Apr 01 22:18 : client: [16] closed
+Apr 01 22:18 : client: [17] opened from 127.0.0.1:55586
+Apr 01 22:18 : client: [17] closed
+Apr 01 22:18 : client: [18] opened from 127.0.0.1:55588
+Apr 01 22:18 : client: [18] closed
+Apr 01 22:18 : client: [19] opened from 127.0.0.1:55590
+Apr 01 22:18 : client: [19] closed
+Apr 01 22:18 : client: [20] opened from 127.0.0.1:55592
+Apr 01 22:19 : client: [20] closed
+Apr 01 22:19 : client: [21] opened from 127.0.0.1:55594
+Apr 01 22:20 : client: [21] closed
+Apr 01 22:20 : client: [22] opened from 127.0.0.1:55596
+Apr 01 22:21 : client: [22] closed
+Apr 01 22:21 : client: [23] opened from 127.0.0.1:55598
+Apr 01 22:30 : client: [23] closed
+Apr 01 22:30 : client: [24] opened from 127.0.0.1:55626
+Apr 01 22:33 : client: [24] closed
+Apr 01 22:33 : client: [25] opened from 127.0.0.1:55654
+Apr 01 22:35 : client: [25] closed
+Apr 01 22:35 : client: [26] opened from 127.0.0.1:55656
+Apr 01 22:35 : client: [26] closed
+Apr 01 22:35 : client: [27] opened from 127.0.0.1:55658
+Apr 01 22:37 : client: [27] closed
+Apr 01 22:37 : client: [28] opened from 127.0.0.1:55660
+Apr 01 22:39 : client: [28] closed
+Apr 01 22:39 : client: [29] opened from 127.0.0.1:55702
+Apr 01 22:40 : client: [29] closed
+Apr 01 22:40 : client: [30] opened from 127.0.0.1:55704
+Apr 01 22:41 : client: [30] closed
+Apr 01 22:41 : client: [31] opened from 127.0.0.1:55706
+Apr 01 22:43 : client: [31] closed
+Apr 01 22:43 : client: [32] opened from 127.0.0.1:55710
+Apr 01 22:44 : client: [32] closed
+Apr 01 22:44 : client: [33] opened from 127.0.0.1:55712
+Apr 01 22:44 : client: [33] closed
+Apr 01 22:44 : client: [34] opened from 127.0.0.1:55714
+Apr 01 22:45 : client: [34] closed
+Apr 01 22:45 : client: [35] opened from 127.0.0.1:55716
+Apr 01 22:48 : client: [35] closed
+Apr 01 22:48 : client: [36] opened from 127.0.0.1:55720
+Apr 01 22:50 : client: [36] closed
+Apr 01 22:50 : client: [37] opened from 127.0.0.1:55736
+Apr 01 22:53 : client: [37] closed
+Apr 01 22:53 : client: [38] opened from 127.0.0.1:55740
+Apr 01 22:53 : client: [38] closed
+Apr 01 22:53 : client: [39] opened from 127.0.0.1:55742
+Apr 01 22:54 : client: [39] closed
+Apr 01 22:54 : client: [40] opened from 127.0.0.1:55744
+Apr 01 22:54 : client: [40] closed
+Apr 01 22:54 : client: [41] opened from 127.0.0.1:55746
+Apr 01 22:57 : client: [41] closed
+Apr 01 22:57 : client: [42] opened from 127.0.0.1:55758
+Apr 01 23:01 : client: [42] closed
+Apr 01 23:01 : client: [43] opened from 127.0.0.1:55774
+Apr 01 23:01 : client: [43] closed
+Apr 01 23:01 : client: [44] opened from 127.0.0.1:55776
+Apr 01 23:06 : client: [44] closed
+Apr 01 23:06 : client: [45] opened from 127.0.0.1:55786
+Apr 01 23:07 : client: [45] closed
+Apr 01 23:07 : client: [46] opened from 127.0.0.1:55790
+Apr 01 23:09 : client: [46] closed
+Apr 01 23:09 : client: [47] opened from 127.0.0.1:55792
+Apr 01 23:09 : client: [47] closed
+Apr 01 23:09 : client: [48] opened from 127.0.0.1:55794
+Apr 01 23:09 : client: [48] closed
+Apr 01 23:09 : client: [49] opened from 127.0.0.1:55796
+Apr 02 03:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 03:07 : client: [0] opened from 127.0.0.1:54348
+Apr 02 04:39 : client: [1] opened from 127.0.0.1:54594
+Apr 02 04:39 : client: [1] closed
+Apr 02 04:39 : client: [2] opened from 127.0.0.1:54598
+Apr 02 04:39 : client: [2] closed
+Apr 02 04:42 : client: [3] opened from 127.0.0.1:54602
+Apr 02 04:42 : client: [3] closed
+Apr 02 04:42 : client: [4] opened from 127.0.0.1:54606
+Apr 02 04:42 : client: [4] closed
+Apr 02 04:42 : client: [5] opened from 127.0.0.1:54612
+Apr 02 04:42 : client: [5] closed
+Apr 02 04:43 : client: [6] opened from 127.0.0.1:54616
+Apr 02 04:43 : client: [7] opened from 127.0.0.1:54620
+Apr 02 04:43 : client: [7] closed
+Apr 02 04:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 04:43 : client: [8] opened from 127.0.0.1:54624
+Apr 02 04:43 : client: [8] closed
+Apr 02 04:43 : client: [9] opened from 127.0.0.1:54628
+Apr 02 04:43 : client: [9] closed
+Apr 02 04:43 : client: [10] opened from 127.0.0.1:54632
+Apr 02 04:43 : client: [10] closed
+Apr 02 04:43 : client: [11] opened from 127.0.0.1:54636
+Apr 02 04:43 : client: [11] closed
+Apr 02 04:43 : client: [12] opened from 127.0.0.1:54640
+Apr 02 04:43 : client: [12] closed
+Apr 02 04:43 : client: [13] opened from 127.0.0.1:54644
+Apr 02 04:43 : client: [13] closed
+Apr 02 04:43 : client: [6] closed
+Apr 02 04:44 : client: [14] opened from 127.0.0.1:54648
+Apr 02 04:44 : client: [14] closed
+Apr 02 04:44 : client: [15] opened from 127.0.0.1:54652
+Apr 02 04:44 : client: [15] closed
+Apr 02 04:44 : client: [16] opened from 127.0.0.1:54656
+Apr 02 04:44 : player: played "Shredder 1984 - Synth City (Official Video)-wcRfTrxzvLw.ogg"
+Apr 02 04:44 : client: [16] closed
+Apr 02 04:53 : client: [0] closed
+Apr 02 04:53 : client: [17] opened from 127.0.0.1:54662
+Apr 02 04:54 : client: [17] closed
+Apr 02 04:54 : client: [18] opened from 127.0.0.1:54664
+Apr 02 04:54 : client: [18] closed
+Apr 02 04:54 : client: [19] opened from 127.0.0.1:54684
+Apr 02 05:01 : client: [20] opened from 127.0.0.1:54710
+Apr 02 05:01 : client: [20] closed
+Apr 02 05:20 : client: [21] opened from 127.0.0.1:55146
+Apr 02 05:20 : client: [21] closed
+Apr 02 05:21 : client: [22] opened from 127.0.0.1:55150
+Apr 02 05:21 : client: [22] closed
+Apr 02 05:21 : client: [23] opened from 127.0.0.1:55154
+Apr 02 05:21 : client: [23] closed
+Apr 02 05:21 : client: [24] opened from 127.0.0.1:55158
+Apr 02 05:21 : client: [24] closed
+Apr 02 05:21 : client: [25] opened from 127.0.0.1:55162
+Apr 02 05:21 : player: played "Shredder 1984 - Synth City (Official Video)-wcRfTrxzvLw.ogg"
+Apr 02 05:21 : client: [25] closed
+Apr 02 05:21 : client: [26] opened from 127.0.0.1:55166
+Apr 02 05:21 : client: [26] closed
+Apr 02 05:21 : client: [27] opened from 127.0.0.1:55170
+Apr 02 05:21 : client: [27] closed
+Apr 02 05:21 : client: [28] opened from 127.0.0.1:55174
+Apr 02 05:21 : player: played "Shredder 1984 - Synth City (Official Video)-wcRfTrxzvLw.ogg"
+Apr 02 05:21 : client: [28] closed
+Apr 02 05:22 : client: [29] opened from 127.0.0.1:55178
+Apr 02 05:22 : client: [29] closed
+Apr 02 05:22 : client: [30] opened from 127.0.0.1:55182
+Apr 02 05:22 : client: [30] closed
+Apr 02 05:22 : client: [31] opened from 127.0.0.1:55186
+Apr 02 05:22 : client: [31] closed
+Apr 02 05:23 : client: [32] opened from 127.0.0.1:55192
+Apr 02 05:23 : client: [32] closed
+Apr 02 05:23 : client: [33] opened from 127.0.0.1:55196
+Apr 02 05:23 : client: [33] closed
+Apr 02 05:23 : client: [34] opened from 127.0.0.1:55200
+Apr 02 05:23 : client: [35] opened from 127.0.0.1:55204
+Apr 02 05:23 : client: [34] closed
+Apr 02 05:23 : client: [36] opened from 127.0.0.1:55208
+Apr 02 05:23 : client: [35] closed
+Apr 02 05:23 : client: [36] closed
+Apr 02 05:23 : client: [37] opened from 127.0.0.1:55212
+Apr 02 05:23 : client: [37] closed
+Apr 02 05:23 : client: [38] opened from 127.0.0.1:55216
+Apr 02 05:23 : client: [39] opened from 127.0.0.1:55220
+Apr 02 05:23 : client: [38] closed
+Apr 02 05:23 : client: [40] opened from 127.0.0.1:55224
+Apr 02 05:23 : client: [39] closed
+Apr 02 05:23 : client: [41] opened from 127.0.0.1:55228
+Apr 02 05:23 : client: [40] closed
+Apr 02 05:23 : client: [41] closed
+Apr 02 05:23 : client: [42] opened from 127.0.0.1:55232
+Apr 02 05:23 : client: [43] opened from 127.0.0.1:55236
+Apr 02 05:23 : client: [42] closed
+Apr 02 05:23 : client: [44] opened from 127.0.0.1:55240
+Apr 02 05:23 : client: [43] closed
+Apr 02 05:23 : client: [45] opened from 127.0.0.1:55244
+Apr 02 05:23 : client: [44] closed
+Apr 02 05:23 : client: [45] closed
+Apr 02 05:23 : client: [46] opened from 127.0.0.1:55248
+Apr 02 05:23 : client: [47] opened from 127.0.0.1:55252
+Apr 02 05:23 : client: [48] opened from 127.0.0.1:55256
+Apr 02 05:23 : client: [46] closed
+Apr 02 05:23 : client: [49] opened from 127.0.0.1:55260
+Apr 02 05:23 : client: [50] opened from 127.0.0.1:55264
+Apr 02 05:23 : client: [51] opened from 127.0.0.1:55268
+Apr 02 05:23 : client: [52] opened from 127.0.0.1:55272
+Apr 02 05:23 : client: [48] closed
+Apr 02 05:23 : client: [47] closed
+Apr 02 05:23 : client: [53] opened from 127.0.0.1:55276
+Apr 02 05:23 : client: [49] closed
+Apr 02 05:23 : client: [54] opened from 127.0.0.1:55280
+Apr 02 05:23 : client: [55] opened from 127.0.0.1:55284
+Apr 02 05:23 : client: [56] opened from 127.0.0.1:55288
+Apr 02 05:23 : client: [52] closed
+Apr 02 05:23 : client: [50] closed
+Apr 02 05:23 : client: [57] opened from 127.0.0.1:55292
+Apr 02 05:23 : client: [51] closed
+Apr 02 05:23 : client: [54] closed
+Apr 02 05:23 : client: [53] closed
+Apr 02 05:23 : client: [55] closed
+Apr 02 05:23 : client: [57] closed
+Apr 02 05:23 : client: [56] closed
+Apr 02 05:23 : client: [58] opened from 127.0.0.1:55296
+Apr 02 05:23 : client: [58] closed
+Apr 02 05:23 : client: [59] opened from 127.0.0.1:55300
+Apr 02 05:23 : client: [59] closed
+Apr 02 05:23 : client: [60] opened from 127.0.0.1:55304
+Apr 02 05:23 : client: [60] closed
+Apr 02 05:23 : client: [61] opened from 127.0.0.1:55308
+Apr 02 05:23 : client: [61] closed
+Apr 02 05:23 : client: [62] opened from 127.0.0.1:55312
+Apr 02 05:23 : client: [62] closed
+Apr 02 05:23 : client: [63] opened from 127.0.0.1:55316
+Apr 02 05:23 : client: [63] closed
+Apr 02 05:23 : client: [64] opened from 127.0.0.1:55320
+Apr 02 05:23 : client: [64] closed
+Apr 02 05:23 : client: [65] opened from 127.0.0.1:55324
+Apr 02 05:23 : client: [65] closed
+Apr 02 05:23 : client: [66] opened from 127.0.0.1:55328
+Apr 02 05:23 : client: [66] closed
+Apr 02 05:23 : client: [67] opened from 127.0.0.1:55332
+Apr 02 05:23 : client: [67] closed
+Apr 02 05:23 : client: [68] opened from 127.0.0.1:55336
+Apr 02 05:23 : client: [68] closed
+Apr 02 05:23 : client: [69] opened from 127.0.0.1:55340
+Apr 02 05:23 : client: [69] closed
+Apr 02 05:23 : client: [70] opened from 127.0.0.1:55344
+Apr 02 05:23 : client: [70] closed
+Apr 02 05:23 : client: [71] opened from 127.0.0.1:55348
+Apr 02 05:23 : client: [71] closed
+Apr 02 05:23 : client: [72] opened from 127.0.0.1:55352
+Apr 02 05:23 : client: [72] closed
+Apr 02 05:23 : client: [73] opened from 127.0.0.1:55356
+Apr 02 05:23 : client: [73] closed
+Apr 02 05:23 : client: [74] opened from 127.0.0.1:55360
+Apr 02 05:23 : client: [74] closed
+Apr 02 05:23 : client: [75] opened from 127.0.0.1:55364
+Apr 02 05:23 : client: [75] closed
+Apr 02 05:23 : client: [76] opened from 127.0.0.1:55368
+Apr 02 05:23 : client: [76] closed
+Apr 02 05:23 : client: [77] opened from 127.0.0.1:55372
+Apr 02 05:23 : client: [77] closed
+Apr 02 05:23 : client: [78] opened from 127.0.0.1:55376
+Apr 02 05:23 : client: [78] closed
+Apr 02 05:23 : client: [79] opened from 127.0.0.1:55380
+Apr 02 05:23 : client: [79] closed
+Apr 02 05:23 : client: [80] opened from 127.0.0.1:55384
+Apr 02 05:23 : client: [80] closed
+Apr 02 05:23 : client: [81] opened from 127.0.0.1:55388
+Apr 02 05:23 : client: [81] closed
+Apr 02 05:23 : client: [82] opened from 127.0.0.1:55392
+Apr 02 05:23 : client: [82] closed
+Apr 02 05:23 : client: [83] opened from 127.0.0.1:55396
+Apr 02 05:23 : client: [83] closed
+Apr 02 05:23 : client: [84] opened from 127.0.0.1:55400
+Apr 02 05:23 : client: [84] closed
+Apr 02 05:23 : client: [85] opened from 127.0.0.1:55404
+Apr 02 05:23 : client: [85] closed
+Apr 02 05:23 : client: [86] opened from 127.0.0.1:55408
+Apr 02 05:23 : client: [86] closed
+Apr 02 05:23 : client: [87] opened from 127.0.0.1:55412
+Apr 02 05:23 : client: [87] closed
+Apr 02 05:23 : client: [88] opened from 127.0.0.1:55416
+Apr 02 05:23 : client: [88] closed
+Apr 02 05:23 : client: [89] opened from 127.0.0.1:55420
+Apr 02 05:23 : client: [89] closed
+Apr 02 05:23 : client: [90] opened from 127.0.0.1:55424
+Apr 02 05:23 : client: [90] closed
+Apr 02 05:23 : client: [91] opened from 127.0.0.1:55428
+Apr 02 05:23 : client: [91] closed
+Apr 02 05:23 : client: [92] opened from 127.0.0.1:55432
+Apr 02 05:23 : client: [92] closed
+Apr 02 05:23 : client: [93] opened from 127.0.0.1:55436
+Apr 02 05:23 : client: [93] closed
+Apr 02 05:23 : client: [94] opened from 127.0.0.1:55440
+Apr 02 05:23 : client: [94] closed
+Apr 02 05:23 : client: [95] opened from 127.0.0.1:55444
+Apr 02 05:23 : client: [95] closed
+Apr 02 05:23 : client: [96] opened from 127.0.0.1:55448
+Apr 02 05:23 : client: [96] closed
+Apr 02 05:23 : client: [97] opened from 127.0.0.1:55452
+Apr 02 05:23 : client: [97] closed
+Apr 02 05:23 : client: [98] opened from 127.0.0.1:55456
+Apr 02 05:23 : client: [98] closed
+Apr 02 05:23 : client: [99] opened from 127.0.0.1:55460
+Apr 02 05:23 : client: [99] closed
+Apr 02 05:23 : client: [100] opened from 127.0.0.1:55464
+Apr 02 05:23 : client: [100] closed
+Apr 02 05:23 : client: [101] opened from 127.0.0.1:55468
+Apr 02 05:23 : client: [101] closed
+Apr 02 05:23 : client: [102] opened from 127.0.0.1:55472
+Apr 02 05:23 : client: [102] closed
+Apr 02 05:23 : client: [103] opened from 127.0.0.1:55476
+Apr 02 05:23 : client: [104] opened from 127.0.0.1:55480
+Apr 02 05:23 : client: [105] opened from 127.0.0.1:55484
+Apr 02 05:23 : client: [103] closed
+Apr 02 05:23 : client: [106] opened from 127.0.0.1:55488
+Apr 02 05:23 : client: [107] opened from 127.0.0.1:55492
+Apr 02 05:23 : client: [108] opened from 127.0.0.1:55496
+Apr 02 05:23 : client: [109] opened from 127.0.0.1:55500
+Apr 02 05:23 : client: [110] opened from 127.0.0.1:55504
+Apr 02 05:23 : client: [104] closed
+Apr 02 05:23 : client: [111] opened from 127.0.0.1:55508
+Apr 02 05:23 : client: [105] closed
+Apr 02 05:23 : client: [112] opened from 127.0.0.1:55512
+Apr 02 05:23 : client: [108] closed
+Apr 02 05:23 : client: [113] opened from 127.0.0.1:55516
+Apr 02 05:23 : client: [109] closed
+Apr 02 05:23 : client: [107] closed
+Apr 02 05:23 : client: [106] closed
+Apr 02 05:23 : client: [114] opened from 127.0.0.1:55520
+Apr 02 05:23 : exception: Decoder failed to seek
+Apr 02 05:23 : client: [111] closed
+Apr 02 05:23 : client: [110] closed
+Apr 02 05:23 : client: [115] opened from 127.0.0.1:55524
+Apr 02 05:23 : client: [112] closed
+Apr 02 05:23 : client: [113] closed
+Apr 02 05:23 : client: [116] opened from 127.0.0.1:55528
+Apr 02 05:23 : client: [115] closed
+Apr 02 05:23 : client: [117] opened from 127.0.0.1:55532
+Apr 02 05:23 : client: [114] closed
+Apr 02 05:23 : client: [116] closed
+Apr 02 05:23 : client: [117] closed
+Apr 02 05:23 : client: [118] opened from 127.0.0.1:55536
+Apr 02 05:23 : client: [119] opened from 127.0.0.1:55540
+Apr 02 05:23 : client: [120] opened from 127.0.0.1:55544
+Apr 02 05:23 : client: [121] opened from 127.0.0.1:55548
+Apr 02 05:23 : client: [122] opened from 127.0.0.1:55552
+Apr 02 05:23 : client: [123] opened from 127.0.0.1:55556
+Apr 02 05:23 : client: [118] closed
+Apr 02 05:23 : client: [124] opened from 127.0.0.1:55560
+Apr 02 05:23 : client: [120] closed
+Apr 02 05:23 : client: [125] opened from 127.0.0.1:55564
+Apr 02 05:23 : client: [119] closed
+Apr 02 05:23 : client: [126] opened from 127.0.0.1:55568
+Apr 02 05:23 : client: [122] closed
+Apr 02 05:23 : client: [121] closed
+Apr 02 05:23 : client: [127] opened from 127.0.0.1:55572
+Apr 02 05:23 : client: [123] closed
+Apr 02 05:23 : client: [128] opened from 127.0.0.1:55576
+Apr 02 05:23 : client: [129] opened from 127.0.0.1:55580
+Apr 02 05:23 : client: [125] closed
+Apr 02 05:23 : client: [130] opened from 127.0.0.1:55584
+Apr 02 05:23 : client: [124] closed
+Apr 02 05:23 : client: [131] opened from 127.0.0.1:55588
+Apr 02 05:23 : client: [132] opened from 127.0.0.1:55592
+Apr 02 05:23 : client: [126] closed
+Apr 02 05:23 : client: [133] opened from 127.0.0.1:55596
+Apr 02 05:23 : client: [129] closed
+Apr 02 05:23 : client: [128] closed
+Apr 02 05:23 : client: [127] closed
+Apr 02 05:23 : client: [134] opened from 127.0.0.1:55600
+Apr 02 05:23 : client: [135] opened from 127.0.0.1:55604
+Apr 02 05:23 : client: [131] closed
+Apr 02 05:23 : client: [130] closed
+Apr 02 05:23 : client: [136] opened from 127.0.0.1:55608
+Apr 02 05:23 : client: [132] closed
+Apr 02 05:23 : client: [137] opened from 127.0.0.1:55612
+Apr 02 05:23 : client: [134] closed
+Apr 02 05:23 : client: [138] opened from 127.0.0.1:55616
+Apr 02 05:23 : client: [133] closed
+Apr 02 05:23 : client: [139] opened from 127.0.0.1:55620
+Apr 02 05:23 : client: [136] closed
+Apr 02 05:23 : client: [135] closed
+Apr 02 05:23 : client: [140] opened from 127.0.0.1:55624
+Apr 02 05:23 : client: [141] opened from 127.0.0.1:55628
+Apr 02 05:23 : client: [137] closed
+Apr 02 05:23 : client: [138] closed
+Apr 02 05:23 : client: [139] closed
+Apr 02 05:23 : client: [141] closed
+Apr 02 05:23 : client: [140] closed
+Apr 02 05:23 : client: [142] opened from 127.0.0.1:55632
+Apr 02 05:23 : client: [142] closed
+Apr 02 05:23 : client: [143] opened from 127.0.0.1:55636
+Apr 02 05:23 : client: [143] closed
+Apr 02 05:23 : client: [144] opened from 127.0.0.1:55640
+Apr 02 05:23 : client: [145] opened from 127.0.0.1:55644
+Apr 02 05:23 : client: [146] opened from 127.0.0.1:55648
+Apr 02 05:23 : client: [145] closed
+Apr 02 05:23 : client: [144] closed
+Apr 02 05:23 : client: [147] opened from 127.0.0.1:55652
+Apr 02 05:23 : client: [146] closed
+Apr 02 05:23 : client: [147] closed
+Apr 02 05:23 : client: [148] opened from 127.0.0.1:55656
+Apr 02 05:23 : client: [149] opened from 127.0.0.1:55660
+Apr 02 05:23 : client: [148] closed
+Apr 02 05:23 : player: played "Shredder 1984 - Synth City (Official Video)-wcRfTrxzvLw.ogg"
+Apr 02 05:23 : client: [150] opened from 127.0.0.1:55664
+Apr 02 05:23 : client: [149] closed
+Apr 02 05:23 : client: [150] closed
+Apr 02 05:23 : client: [151] opened from 127.0.0.1:55668
+Apr 02 05:23 : client: [151] closed
+Apr 02 05:23 : client: [152] opened from 127.0.0.1:55672
+Apr 02 05:23 : client: [152] closed
+Apr 02 05:23 : client: [153] opened from 127.0.0.1:55676
+Apr 02 05:23 : client: [153] closed
+Apr 02 05:23 : client: [154] opened from 127.0.0.1:55680
+Apr 02 05:23 : client: [154] closed
+Apr 02 05:23 : client: [155] opened from 127.0.0.1:55684
+Apr 02 05:23 : client: [155] closed
+Apr 02 05:23 : client: [156] opened from 127.0.0.1:55688
+Apr 02 05:23 : client: [156] closed
+Apr 02 05:23 : client: [157] opened from 127.0.0.1:55692
+Apr 02 05:23 : client: [157] closed
+Apr 02 05:23 : client: [158] opened from 127.0.0.1:55696
+Apr 02 05:23 : client: [158] closed
+Apr 02 05:23 : client: [159] opened from 127.0.0.1:55700
+Apr 02 05:23 : client: [159] closed
+Apr 02 05:23 : client: [160] opened from 127.0.0.1:55704
+Apr 02 05:23 : client: [160] closed
+Apr 02 05:23 : client: [161] opened from 127.0.0.1:55708
+Apr 02 05:23 : client: [161] closed
+Apr 02 05:23 : client: [162] opened from 127.0.0.1:55712
+Apr 02 05:23 : client: [162] closed
+Apr 02 05:23 : client: [163] opened from 127.0.0.1:55716
+Apr 02 05:23 : client: [163] closed
+Apr 02 05:23 : client: [164] opened from 127.0.0.1:55720
+Apr 02 05:23 : client: [164] closed
+Apr 02 05:23 : client: [165] opened from 127.0.0.1:55724
+Apr 02 05:23 : client: [165] closed
+Apr 02 05:23 : client: [166] opened from 127.0.0.1:55728
+Apr 02 05:23 : client: [166] closed
+Apr 02 05:23 : client: [167] opened from 127.0.0.1:55732
+Apr 02 05:23 : client: [167] closed
+Apr 02 05:23 : client: [168] opened from 127.0.0.1:55736
+Apr 02 05:23 : client: [168] closed
+Apr 02 05:23 : client: [169] opened from 127.0.0.1:55740
+Apr 02 05:23 : client: [169] closed
+Apr 02 05:23 : client: [170] opened from 127.0.0.1:55744
+Apr 02 05:23 : client: [170] closed
+Apr 02 05:23 : client: [171] opened from 127.0.0.1:55748
+Apr 02 05:23 : client: [171] closed
+Apr 02 05:23 : client: [172] opened from 127.0.0.1:55752
+Apr 02 05:23 : client: [172] closed
+Apr 02 05:28 : client: [19] closed
+Apr 02 05:28 : client: [173] opened from 127.0.0.1:55756
+Apr 02 05:35 : client: [173] closed
+Apr 02 05:35 : client: [174] opened from 127.0.0.1:55760
+Apr 02 05:36 : client: [174] closed
+Apr 02 05:36 : client: [175] opened from 127.0.0.1:55762
+Apr 02 05:37 : client: [175] closed
+Apr 02 05:38 : client: [176] opened from 127.0.0.1:55766
+Apr 02 05:41 : client: [176] closed
+Apr 02 05:41 : client: [177] opened from 127.0.0.1:55770
+Apr 02 05:43 : client: [177] closed
+Apr 02 05:43 : client: [178] opened from 127.0.0.1:55774
+Apr 02 05:45 : client: [178] closed
+Apr 02 05:45 : client: [179] opened from 127.0.0.1:55786
+Apr 02 05:47 : client: [180] opened from 127.0.0.1:55796
+Apr 02 05:47 : client: [180] closed
+Apr 02 05:47 : client: [181] opened from 127.0.0.1:55800
+Apr 02 05:47 : client: [181] closed
+Apr 02 05:47 : client: [182] opened from 127.0.0.1:55804
+Apr 02 05:47 : client: [182] closed
+Apr 02 05:47 : client: [183] opened from 127.0.0.1:55808
+Apr 02 05:47 : player: played "Shredder 1984 - Synth City (Official Video)-wcRfTrxzvLw.ogg"
+Apr 02 05:47 : client: [183] closed
+Apr 02 08:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 08:17 : client: [0] opened from 127.0.0.1:36914
+Apr 02 08:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 08:29 : client: [0] opened from 127.0.0.1:36970
+Apr 02 08:29 : client: [1] opened from 127.0.0.1:36974
+Apr 02 08:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 08:29 : client: [2] opened from 127.0.0.1:36978
+Apr 02 08:29 : client: [2] closed
+Apr 02 08:29 : client: [3] opened from 127.0.0.1:36982
+Apr 02 08:29 : client: [3] closed
+Apr 02 08:29 : client: [4] opened from 127.0.0.1:36986
+Apr 02 08:29 : client: [4] closed
+Apr 02 08:29 : client: [5] opened from 127.0.0.1:36990
+Apr 02 08:29 : client: [5] closed
+Apr 02 08:29 : player: played "Shredder 1984 - Synth City (Official Video)-wcRfTrxzvLw.ogg"
+Apr 02 08:29 : client: [1] closed
+Apr 02 08:32 : client: [6] opened from 127.0.0.1:36994
+Apr 02 08:32 : client: [6] closed
+Apr 02 08:55 : client: [7] opened from 127.0.0.1:37072
+Apr 02 08:55 : player: played "Shredder 1984 - Synth City (Official Video)-wcRfTrxzvLw.ogg"
+Apr 02 08:55 : client: [7] closed
+Apr 02 19:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 19:15 : client: [0] opened from 127.0.0.1:50928
+Apr 02 19:42 : client: [0] closed
+Apr 03 02:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 03 02:59 : client: [0] opened from 127.0.0.1:45494
+Apr 03 03:06 : client: [1] opened from 127.0.0.1:45500
+Apr 03 03:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 03 03:06 : player: played "Shredder 1984 - Synth City (Official Video)-wcRfTrxzvLw.ogg"
+Apr 03 03:06 : client: [1] closed
